@@ -3,7 +3,7 @@ export const products = [
     name: 'Phone XL',
     price: 799,
     description: 'A large phone with one of the best screens',
-    img: '../img/phone_xl.jpg'
+    img: '/img/phone_xl.jpg'
   },
   {
     name: 'Phone Mini',
